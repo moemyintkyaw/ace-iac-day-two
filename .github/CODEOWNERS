@@ -8,6 +8,6 @@ app-fqdn-rules.tf @ace-secops
 
 # In a true org structure, these files should have the Network Operators account as the owner:
 main.tf @moemyintkyaw
-provider.tf @<moemyintkyaw
+provider.tf @moemyintkyaw
 variables.tf @moemyintkyaw
 versions.tf @moemyintkyaw
